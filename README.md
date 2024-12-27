@@ -2,4 +2,4 @@
 
 ## Commands
 
-- go run <file-name>.go
+- go run filename.go
