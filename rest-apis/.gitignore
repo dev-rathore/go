@@ -1,0 +1,10 @@
+*.out
+
+go.work
+go.work.sum
+
+.env
+
+# root level config
+/storage
+/config
